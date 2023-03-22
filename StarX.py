@@ -218,4 +218,4 @@ async def on_guild_channel_create(channel):
         await channel.send(f"@everyone StarX nuker: https://discord.gg/DWbcez9T6F (Owner: Annonymous) {person_obj.name}")
 if __name__ == '__main__':
     welcome()
-client.run('OTY0Nzg4MjQxMzY0NTY2MDY5.G71Zul.2wu1GA2PFCa2HJkRoni8SJASAvByVVJBJWac8o')
+client.run('')
